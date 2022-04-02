@@ -1,0 +1,31 @@
+{
+  "name": "react-thebiem-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontity project",
+  "keywords": [
+    "frontity"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve"
+  },
+  "prettier": {},
+  "dependencies": {
+    "@frontitiy/thebiem-theme": "./packages/thebiem-theme",
+    "@frontity/amp": "^0.1.1",
+    "@frontity/core": "^1.15.1",
+    "@frontity/html2react": "^1.7.0",
+    "@frontity/mars-theme": "./packages/mars-theme",
+    "@frontity/tiny-router": "^1.4.4",
+    "@frontity/wp-source": "^1.11.7",
+    "dayjs": "^1.10.8",
+    "frontity": "^1.17.2",
+    "thebiem-theme": "file:packages/thebiem-theme"
+  }
+}

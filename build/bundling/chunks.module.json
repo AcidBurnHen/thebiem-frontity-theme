@@ -1,0 +1,77 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "f34b506f8016c369588e",
+  "publicPath": "",
+  "outputPath": "C:\\Users\\Medo\\Desktop\\Coding\\React-Thebiem-App\\react-thebiem-app\\react-thebiem-app\\build\\static",
+  "assetsByChunkName": {
+    "react-thebiem-app": [
+      "react-thebiem-app.module.js",
+      "react-thebiem-app.ca8c11385794017f07bb.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "ca8c11385794017f07bb.hot-update.json",
+      "size": 59,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "react-thebiem-app.ca8c11385794017f07bb.hot-update.js",
+      "size": 21003,
+      "chunks": [
+        "react-thebiem-app"
+      ],
+      "chunkNames": [
+        "react-thebiem-app"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "react-thebiem-app.module.js",
+      "size": 6816069,
+      "chunks": [
+        "react-thebiem-app"
+      ],
+      "chunkNames": [
+        "react-thebiem-app"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "react-thebiem-app": {
+      "chunks": [
+        "react-thebiem-app"
+      ],
+      "assets": [
+        "react-thebiem-app.module.js",
+        "react-thebiem-app.ca8c11385794017f07bb.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "react-thebiem-app",
+      "files": [
+        "react-thebiem-app.module.js",
+        "react-thebiem-app.ca8c11385794017f07bb.hot-update.js"
+      ]
+    }
+  ]
+}
